@@ -1,8 +1,0 @@
-
-int add(unsigned i, double k, unsigned ka)
-{
-	arr[1] = 0.424 * c[1] + 14 + var2;
-	arr[3] = 0.432 * c[3] + 9 + var1;
-	arr[0] = 0.4324 * c[0] + 20 + var2;
-	arr[2] = 0.324 * c[2] + 2 + var1;
-}
